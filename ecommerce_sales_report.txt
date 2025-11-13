@@ -1,0 +1,51 @@
+E-Ticaret Satış Analizi Raporu
+
+==================================================
+
+1. Özet Bilgiler
+
+- Benzersiz Müşteri Sayısı: 20000
+- Benzersiz Sepet-Müşteri Sayısı: 13871
+- Toplam Ürün Sayısı: 13161
+- Toplam Satış Adedi: 32306
+
+2. En Çok Satılan 10 Ürün
+
+1. Ürün ID 43524799 - Toplam Satış: 69 adet
+2. Ürün ID 31516269 - Toplam Satış: 59 adet
+3. Ürün ID 39833031 - Toplam Satış: 50 adet
+4. Ürün ID 46130148 - Toplam Satış: 36 adet
+5. Ürün ID 34913531 - Toplam Satış: 28 adet
+6. Ürün ID 3735903 - Toplam Satış: 27 adet
+7. Ürün ID 40276011 - Toplam Satış: 27 adet
+8. Ürün ID 6411072 - Toplam Satış: 23 adet
+9. Ürün ID 42033035 - Toplam Satış: 23 adet
+10. Ürün ID 39050110 - Toplam Satış: 22 adet
+
+3. En Çok Alışveriş Yapan 10 Müşteri
+
+1. Müşteri ID 8276934 - Toplam Sepet Adedi: 29
+2. Müşteri ID 7097820 - Toplam Sepet Adedi: 18
+3. Müşteri ID 11082470 - Toplam Sepet Adedi: 17
+4. Müşteri ID 11732494 - Toplam Sepet Adedi: 14
+5. Müşteri ID 22988999 - Toplam Sepet Adedi: 14
+6. Müşteri ID 10871751 - Toplam Sepet Adedi: 14
+7. Müşteri ID 18617678 - Toplam Sepet Adedi: 14
+8. Müşteri ID 16074697 - Toplam Sepet Adedi: 13
+9. Müşteri ID 25854510 - Toplam Sepet Adedi: 12
+10. Müşteri ID 29145357 - Toplam Sepet Adedi: 12
+
+4. Aylık Satış Trendleri (Adet Bazlı)
+
+- 2019-05: 19209 adet
+- 2019-06: 13097 adet
+
+5. Şehirlere Göre Satış (Top 10)
+
+Şehir bilgisi bulunamadığı için şehir bazlı analiz yapılamadı.
+
+6. Yönetim İçin Öneriler
+
+- En çok satılan ürünlerin stokları güçlendirilmeli.
+- Düşük satış yapılan bölgelerde promosyon planları yapılmalı.
+- Aylık trendlere göre sezonluk kampanyalar hazırlanmalı.
