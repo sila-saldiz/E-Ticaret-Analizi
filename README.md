@@ -30,7 +30,7 @@ Amaç, yönetime **hangi ürünlere ve şehirlere odaklanılması gerektiği** k
 
 ## 📊 Çıktılar
 - 📈 Grafikler → `plots/` klasöründe
-- (aylik_satis_trendi.png)
+- ![Aylık Satış Trendi](aylik_satis_trendi.png)
 - 🧾 Rapor → `report/ecommerce_sales_report.txt`  
 - 📁 Sonuç dosyaları → `outputs/` klasöründe  
 
